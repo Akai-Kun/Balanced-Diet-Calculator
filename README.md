@@ -1,5 +1,5 @@
 # Balanced-Diet-Calculator
-Created using tkinter module in Python
+Application created using tkinter module in Python
 
 **Balanced Diet Calculator:-**
 
