@@ -1,5 +1,6 @@
 # Balanced-Diet-Calculator
-_I created this application using **tkinter** module in **Python**_
+_I created this application using **tkinter** module in **Python**_.
+
 It can calculate both, a user's **daily diet requirements** as well as user's **BMI**.
 
 **Balanced Diet Calculator:-**
